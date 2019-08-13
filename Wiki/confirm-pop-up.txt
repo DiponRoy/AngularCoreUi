@@ -1,0 +1,6 @@
+ng-bootstrap
+https://stackblitz.com/edit/angular-confirmation-dialog?file=app%2Fconfirmation-dialog%2Fconfirmation-dialog.component.ts
+
+
+ngx-bootstrap
+https://valor-software.com/ngx-bootstrap/?gclid=CjwKCAjw1rnqBRAAEiwAr29II4yKYhimFJNBoB9g95irfy7O2Wr44U0lO2jIbyb22ivz50-Nw51eHxoCBr0QAvD_BwE#/modals

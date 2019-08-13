@@ -1,0 +1,52 @@
+Web Api:
+Swashbuckle.AspNetCore
+
+
+NodeJs: https://nodejs.org/en/download/
+node -v
+v10.16.1
+
+npm -v
+6.9.0
+
+
+
+
+https://cli.angular.io/
+npm install -g @angular/cli
+ng --version
+
+
+Vsc
+Ctrl+`
+https://www.youtube.com/watch?v=oh4mnlM_eYA
+
+
+ng new my-dream-app
+cd my-dream-app
+ng serve
+
+
+ng generate
+
+
+
+Tmpl: https://github.com/coreui/coreui-free-angular-admin-template
+
+
+
+
+https://github.com/coreui/coreui-free-bootstrap-admin-template
+npm install
+npm audit fix
+
+ng build
+ng serve
+Ctrl + c
+
+
+Vs Build: https://stackoverflow.com/questions/44530354/running-visual-studio-2017-with-angular-4-and-angular-cli
+
+Change outup path: 
+https://stackoverflow.com/questions/37348045/how-to-change-the-dist-folder-path-in-angular-cli-after-ng-build
+https://stackoverflow.com/questions/50436156/angular-6-cant-find-angular-cli-json-and-change-the-outdir

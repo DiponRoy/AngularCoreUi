@@ -1,0 +1,15 @@
+https://www.freecodecamp.org/news/how-to-create-angular-6-custom-elements-web-components-c88814dc6e0a/
+https://medium.com/@balramchavan/building-simple-custom-web-element-using-angular-v6-element-667b5f02c138
+https://blog.bitsrc.io/using-angular-elements-why-and-how-part-1-35f7fd4f0457
+https://medium.com/@aks1357/getting-started-with-angular-elements-d13a967b03df
+https://www.softwarearchitekt.at/aktuelles/angular-elements-part-i/
+
+
+npm install @angular/elements --save
+npm install @webcomponents/webcomponentsjs --save
+
+ng add @angular/elements
+ng g c BusyButton --inline-style --inline-template -v Native
+
+
+https://dzone.com/articles/angular-components-pass-by-reference-or-pass-by-va
