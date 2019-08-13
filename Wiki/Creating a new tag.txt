@@ -13,3 +13,9 @@ ng g c BusyButton --inline-style --inline-template -v Native
 
 
 https://dzone.com/articles/angular-components-pass-by-reference-or-pass-by-va
+
+
+Error:
+ERROR TypeError: Cannot read property 'nativeNode' of null
+https://github.com/angular/angular/issues/25525
+https://github.com/angular/angular/issues/29606
